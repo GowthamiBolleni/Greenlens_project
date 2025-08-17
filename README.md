@@ -1,7 +1,9 @@
 # 🌱 GreenLens+ – AI Waste Scanner
-<img width="1784" height="890" alt="image" src="https://github.com/user-attachments/assets/9aeb29d1-3eba-47e3-82d9-ade29744daa7" />
+<img width="1873" height="728" alt="image" src="https://github.com/user-attachments/assets/a789ce37-d573-43c7-b16a-06b845a59211" />
 <img width="1589" height="844" alt="image" src="https://github.com/user-attachments/assets/97056c8a-fec8-47f6-88df-5408bcebd270" />
 <img width="1391" height="764" alt="image" src="https://github.com/user-attachments/assets/e9b31fb0-bb3f-4661-9402-c7bd287b905e" />
+<img width="1917" height="736" alt="image" src="https://github.com/user-attachments/assets/a79270af-0d58-4108-b45e-61bc50af2845" />
+<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/b2e523ba-b6ff-41ae-84ad-535e39c042b4" />
 
 
 
