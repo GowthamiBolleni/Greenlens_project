@@ -1,4 +1,9 @@
 # 🌱 GreenLens+ – AI Waste Scanner
+<img width="1784" height="890" alt="image" src="https://github.com/user-attachments/assets/9aeb29d1-3eba-47e3-82d9-ade29744daa7" />
+<img width="1589" height="844" alt="image" src="https://github.com/user-attachments/assets/97056c8a-fec8-47f6-88df-5408bcebd270" />
+<img width="1391" height="764" alt="image" src="https://github.com/user-attachments/assets/e9b31fb0-bb3f-4661-9402-c7bd287b905e" />
+
+
 
 GreenLens+ is an **AI-powered waste classification system** designed to promote responsible waste disposal and sustainability.  
 Users can upload or capture images of waste items, and the system automatically classifies them into categories such as **plastic, glass, paper, cardboard, metal, trash, and e-waste**.  
