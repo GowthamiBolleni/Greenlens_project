@@ -1,0 +1,61 @@
+{
+  "user": {
+    "name": "You",
+    "ecoPoints": 140,
+    "co2Saved": 56,
+    "history": [
+      {
+        "type": "Plastic",
+        "info": "Rinse...",
+        "co2": 5,
+        "points": 20,
+        "timestamp": 1692264842
+      },
+      {
+        "type": "metal",
+        "info": "Recycle cans and foils.",
+        "co2": 12,
+        "points": 20,
+        "timestamp": 1755438905
+      },
+      {
+        "type": "metal",
+        "info": "Recycle cans and foils.",
+        "co2": 12,
+        "points": 20,
+        "timestamp": 1755439429
+      },
+      {
+        "type": "metal",
+        "info": "Recycle cans and foils.",
+        "co2": 12,
+        "points": 20,
+        "timestamp": 1755439442
+      },
+      {
+        "type": "paper",
+        "info": "Break down boxes, keep clean/dry.",
+        "co2": 3,
+        "points": 20,
+        "timestamp": 1755439466
+      },
+      {
+        "type": "plastic",
+        "info": "Rinse and dry before recycling.",
+        "co2": 5,
+        "points": 20,
+        "timestamp": 1755439473
+      }
+    ]
+  },
+  "leaderboard": [
+    {
+      "name": "Ava",
+      "points": 1500
+    },
+    {
+      "name": "You",
+      "points": 140
+    }
+  ]
+}
